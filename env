@@ -1,0 +1,72 @@
+SHELL=/bin/bash
+RUN_TESTS_DISPLAY_URL=http://34.233.134.193:8080/job/pipeline/6/display/redirect?page=tests
+COURSE=Jenkins
+HISTSIZE=10000
+JENKINS_SERVER_COOKIE=durable-00ecd5a941e8f6d48b09665f801560114e1ea03235319aaf34bb0a8a31f87b95
+GIT_PREVIOUS_SUCCESSFUL_COMMIT=794cd29076932681464184f33d1de4c6799343d7
+HISTTIMEFORMAT=%d/%m/%y %T 
+AWS_DEFAULT_REGION=us-east-1
+RUN_CHANGES_DISPLAY_URL=http://34.233.134.193:8080/job/pipeline/6/display/redirect?page=changes
+HUDSON_HOME=/var/lib/jenkins
+PWD=/home/ec2-user/jenkins/workspace/pipeline
+LOGNAME=ec2-user
+XDG_SESSION_TYPE=tty
+BUILD_URL=http://34.233.134.193:8080/job/pipeline/6/
+PERSON=Mr Jenkins
+ANSIBLE_DEPRECATION_WARNINGS=False
+JOB_URL=http://34.233.134.193:8080/job/pipeline/
+BUILD_NUMBER=6
+MOTD_SHOWN=pam
+JENKINS_NODE_COOKIE=d42aa0e1-1f3e-4a1a-a907-4b6be468dea4
+BUILD_DISPLAY_NAME=#6
+HOME=/home/ec2-user
+LANG=C.UTF-8
+ANSIBLE_FORCE_COLOR=1
+JENKINS_URL=http://34.233.134.193:8080/
+JOB_BASE_NAME=pipeline
+PROMPT_COMMAND=$(history -w)
+JOB_NAME=pipeline
+RUN_DISPLAY_URL=http://34.233.134.193:8080/job/pipeline/6/display/redirect
+SSH_CONNECTION=172.31.21.46 33880 172.31.21.57 22
+JOB_DISPLAY_URL=http://34.233.134.193:8080/job/pipeline/display/redirect
+WORKSPACE=/home/ec2-user/jenkins/workspace/pipeline
+PASSWORD=SECRET
+GIT_PREVIOUS_COMMIT=794cd29076932681464184f33d1de4c6799343d7
+HUDSON_URL=http://34.233.134.193:8080/
+XDG_SESSION_CLASS=user
+NODE_NAME=AGENT-1
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+USER=ec2-user
+HUDSON_SERVER_COOKIE=02764344ec8ed5c7
+GIT_URL=https://github.com/drnagarjuna23/jenkins.git
+SHLVL=2
+BUILD_TAG=jenkins-pipeline-6
+EXECUTOR_NUMBER=0
+HUDSON_COOKIE=aa2d3ac6-54d5-46e5-9c7d-29e72d8bf53f
+SYSTEMD_PAGER=cat
+XDG_SESSION_ID=7
+JENKINS_HOME=/var/lib/jenkins
+CHOICE=One
+DEPLOY=true
+XDG_RUNTIME_DIR=/run/user/1001
+SSH_CLIENT=172.31.21.46 33880 22
+REQUESTS_CA_BUNDLE=/etc/pki/tls/certs/ca-bundle.crt
+DEBUGINFOD_IMA_CERT_PATH=/etc/keys/ima:
+GIT_COMMIT=794cd29076932681464184f33d1de4c6799343d7
+which_declare=declare -f
+NODE_LABELS=AGENT-1
+STAGE_NAME=Build
+AWS_CA_BUNDLE=/etc/pki/tls/certs/ca-bundle.crt
+WORKSPACE_TMP=/home/ec2-user/jenkins/workspace/pipeline@tmp
+XDG_DATA_DIRS=/home/ec2-user/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+PATH=/home/ec2-user/.local/bin:/home/ec2-user/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+RUN_ARTIFACTS_DISPLAY_URL=http://34.233.134.193:8080/job/pipeline/6/display/redirect?page=artifacts
+CI=true
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+GIT_BRANCH=origin/main
+BUILD_ID=6
+OLDPWD=/home/ec2-user
+BASH_FUNC_which%%=() {  ( alias;
+ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@
+}
+_=/usr/bin/env
